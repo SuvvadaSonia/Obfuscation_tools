@@ -52,6 +52,27 @@ Version: Python3.11
 * Worked on POC of Cryptography to run python files with key and without showing Source code.
 
 
+### 03-03-2023
+
+Worked on Tool: WebPageTest
+
+* Worked installation of WPT on local servers.
+
+
+### 06-03-2023
+
+Worked on Tool: WebPageTest
+
+* Worked installation of WPT on local servers.
+
+
+### 07-03-2023
+
+Worked on Tool: WebPageTest
+
+* Worked installation of WPT on local servers.
+
+
 ### 09-03-2023
 
 Worked on Tool: Pyminifier
